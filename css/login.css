@@ -1,0 +1,44 @@
+.container-fluid{
+	background-color:#2392AD;
+}
+
+
+.head{
+	
+	height:150px;
+	
+}
+
+.center{
+	background-image:url("../images/logo1.png");
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	
+}
+
+.login{
+	
+	height:300px;
+}
+
+.color{
+	background-color:lavender;
+	border-radius:20px;
+
+}
+
+form{
+	margin-top:30px;
+}
+
+
+
+p{
+	text-align:center;
+	font-size:25px;
+	color:#2392AD;
+}
+
+.btn-primary{
+	margin-left:180px;
+}
